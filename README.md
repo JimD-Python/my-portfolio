@@ -1,2 +1,3 @@
-# my-portfolio
-Serverless Course Portfolio
+# Jim Donachie's Portfolio
+
+This is my Serverless Course Portfolio. It uses AWS and ReactJS.
